@@ -35,9 +35,3 @@ The dataset contains:
 - Trains ML model
 - Accepts user input
 - Predicts exam score
-
-## How to Run
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
